@@ -10,4 +10,4 @@ This bot will snipe limiteds or other rare items depending on your Robux (R$) bu
 ## Licensing
 
 ## Contact Information
-If you have any trouble using this program or want to ask a question, please create a post [here](https://github.com/meteor4716/rsniper/issues/new). Thank you!
+If you have any trouble using this program or want to ask a question, please create a post [here](https://github.com/meteor4716/rsniper/issues/new). Thank you for supporting the ROBLOX Item Sniper, and we hope to bring more snipers in the future!
