@@ -8,4 +8,4 @@ This bot will snipe limiteds or other rare items depending on your Robux (R$) bu
 ## Pricing
 
 ## Contact Information
-If you have any trouble using this program or have a question, please create a post [here](https://github.com/meteor4716/rsniper/issues/new). Thank you!
+If you have any trouble using this program or want to ask a question, please create a post [here](https://github.com/meteor4716/rsniper/issues/new). Thank you!
