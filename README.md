@@ -18,7 +18,7 @@ This bot will snipe limiteds or other rare items depending on your Robux (R$) bu
 
 ## Licensing
 
-This program is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), meaning that you are required to disclose certain information, including but not limited to a license and copyright notice, state changes, and source. Please refer [here](https://www.gnu.org/licenses/gpl-3.0.en.html) for more information.
+This program is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html), meaning that you are required to disclose certain information, including but not limited to a license and copyright notice, state changes, and original [source](https://github.com/meteor4716/rsniper/). Please refer [here](https://www.gnu.org/licenses/gpl-3.0.en.html) for more information.
 
 ## Contact Information
 
